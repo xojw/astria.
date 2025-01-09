@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Logo">
+  <img src="./IMG_5316.png" alt="Logo">
 </p>
 
 <p align="center" style="font-weight: bold; color: purple;">

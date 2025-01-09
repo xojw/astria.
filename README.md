@@ -3,44 +3,8 @@
 </p>
 
 <p align="center" style="font-weight: bold; color: purple;">
-  testing repository
+  testing repository 🐉
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/xojw/astria.?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/xojw/astria.?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/issues/xojw/astria." alt="Issues">
-</p>
-
-<p align="center">
-   I have taken down the main link since i can't pay for the server cost alone.
-</p>
-
-> [!IMPORTANT]
-> Consider giving this repository a ⭐️ if you do fork and use Ulrua!
-
----
-
-# Features:
-- Ads free!!
-- Sleek and modern UI
-- Fast
-- Search engines switcher
-- Easy to deploy 
-- Tabs system
-- Now.gg support
-- Dev Tools
-
----
----
-
-# Deploy this project:
-
-> [!IMPORTANT]
-> you can NOT deploy this project on any static hosting site like Github Pages, Cloudflare Pages, Netlify, etc.
-
-[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template?template_url=https://github.com/oavla/ulrua)  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/oavla/ulrua)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/oavla/ulrua)  [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/oavla/ulrua)
 
 ---
 ---
@@ -60,11 +24,6 @@ https://github.com/xojw/astria.
 
 sh setup.sh
 ```
-
----
----
-
-## No main ip for Ulrua yet :(
 
 ---
 ---
@@ -92,4 +51,4 @@ When the process completes, a pop-up will appear. Click ‘Public’ to proceed.
 ---
 
 > [!IMPORTANT]
-> Consider giving this repository a ⭐️ if you do fork and use Ulrua!
+> Bye.

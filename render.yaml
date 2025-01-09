@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: Ulrua
-    env: node
-    buildCommand: "npm install"
-    startCommand: "node index.mjs"

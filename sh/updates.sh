@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd /var/www/ulr
-
 branch="main"
 
 while true; do

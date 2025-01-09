@@ -19,8 +19,7 @@
 3. Run the commands below:
 
 ```bash
-sudo git clone 
-https://github.com/xojw/astria.
+sudo git clone https://github.com/xojw/astria.
 
 sh setup.sh
 ```

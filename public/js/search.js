@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const moviesButton = document.querySelector('.movies-button');
     const nowggButton = document.querySelector('.nowgg-button');
     const searchIntro = document.querySelector(".search-intro");
-    const christmasHat = document.querySelector("#christmas-hat"); 
 
     navbar.style.display = "none";
     frame.style.display = "none";
@@ -37,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
         div.style.display = "none";
         frame.style.display = "block";
         gamesButton.style.display = "none";
-        christmasHat.style.display = "none";
         
         frame.src = await getUrlWithDelay(searchURL);
 

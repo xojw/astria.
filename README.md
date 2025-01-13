@@ -21,6 +21,8 @@
 ```bash
 sudo git clone https://github.com/xojw/astria.
 
+cd astria.
+
 sh setup.sh
 ```
 
